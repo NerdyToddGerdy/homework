@@ -9,3 +9,7 @@ Part 1
 6. git checkout --
 7. -- Will inform the terminal that you are on the last option.
 8. You may have tried something that created a huge bug and need to revert back to an older version.
+
+9. git branch
+10. git checkout
+11. If you had a bug  or a feature on the main branch, you create a branch to try to solve it without messing up your original code any farther.
