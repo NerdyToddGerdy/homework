@@ -1,1 +1,16 @@
 
+h1 {
+  text-align: center;
+  font-family: 'Slabo 27px',serif;
+}
+h3 {
+  color: rgba(175,0,75,1);
+}
+img {
+  border: 1px solid black;
+}
+body {
+  border-top: 8px solid black;
+  border-bottom: 8px solid black;
+
+}
