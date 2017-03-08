@@ -13,3 +13,6 @@ Part 1
 9. git branch
 10. git checkout
 11. If you had a bug  or a feature on the main branch, you create a branch to try to solve it without messing up your original code any farther.
+
+12. Merging is great when you have fixed a bug and want to remove the bug.  A pull request is great when you have a leader looking over everybody else's work before adding to the master branch
+13. git push
